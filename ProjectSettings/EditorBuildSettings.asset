@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b13a88d73db943141b5219321d82aa3b
+  - enabled: 1
+    path: Assets/Scenes/HighScoreMenu.unity
+    guid: 4ef8fcf3b024ae241bf51ff2e76fe27e
+  - enabled: 1
+    path: Assets/Scenes/jack and Giant.unity
+    guid: fc9d543b411d8cc4799fb35004332a27
+  - enabled: 1
+    path: Assets/Scenes/OptionMenu.unity
+    guid: 07d75022526f6154a88b0cfab1579732
+  m_configObjects: {}
